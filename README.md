@@ -22,7 +22,6 @@
 
 ## Dashboard
 QuickSight: https://us-east-1.quicksight.aws.amazon.com/sn/accounts/767398059503/dashboards/f5005cbd-83d2-4757-bcdb-980deaa5d0b8?directory_alias=yt-analytics-dashboard
-![alt text]https://drive.google.com/file/d/1UWoPo2MfUc1lE9HHNP33pokQymUx1GcI/view?usp=sharing
 
 
 ## Architecture Diagram
