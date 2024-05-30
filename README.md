@@ -20,7 +20,7 @@ By leveraging Amazon Web Services, it aims to uncover patterns in viewer behavio
 - Provided insights through an interactive dashboard using Amazon QuickSight.
 
 ## Dashboard
-QuickSight: https://us-east-1.quicksight.aws.amazon.com/sn/accounts/767398059503/dashboards/f5005cbd-83d2-4757-bcdb-980deaa5d0b8?directory_alias=yt-analytics-dashboard
+QuickSight: https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/f5005cbd-83d2-4757-bcdb-980deaa5d0b8/views/bac4b0a9-cea6-4fd8-8da8-05fa53e854fb?directory_alias=yt-analytics-dashboard
 ![alt-text](https://github.com/HitPant/youtube-trends-analysis-Data_Engineering/blob/main/images/Screenshot%202024-05-29%20235848.png)
 
 ## Architecture Diagram
