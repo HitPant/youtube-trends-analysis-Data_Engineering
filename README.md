@@ -22,6 +22,7 @@
 
 ## Dashboard
 QuickSight: https://us-east-1.quicksight.aws.amazon.com/sn/accounts/767398059503/dashboards/f5005cbd-83d2-4757-bcdb-980deaa5d0b8?directory_alias=yt-analytics-dashboard
-
+![alt-text](https://github.com/HitPant/youtube-trends-analysis-Data_Engineering/blob/main/images/Screenshot%202024-05-29%20235848.png)
 
 ## Architecture Diagram
+![alt-text](https://github.com/HitPant/youtube-trends-analysis-Data_Engineering/blob/main/images/architecture_diagram-yt_analytics.jpg)
